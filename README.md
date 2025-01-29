@@ -1,7 +1,11 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: icunbai's blog
 permalink: /
 ---
-## test
-测试一下首页是怎么样的
+
+## Hello
+
+这是新捣鼓的一个博客
+写点最近感兴趣的发现和感悟
+整理一些稀碎吧
