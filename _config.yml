@@ -1,10 +1,12 @@
 # Configurations
-title: Jekyll Gitbook
-longtitle: Jekyll Gitbook
-author: HE Tao
+title: icunbai
+longtitle: Less is more
+author: cunbai
 email: sighingnow@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
+
+language: cn
 
 version: 1.0
 gitbook_version: 3.2.3
@@ -59,7 +61,7 @@ collections:
 
 ordered_collections:
   - posts
-  - pages
+  - Recent interests
   - others
 
 page_width: 800px
