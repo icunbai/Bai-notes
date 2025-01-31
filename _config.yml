@@ -61,7 +61,7 @@ collections:
 
 ordered_collections:
   - posts
-  - Recent interests
+  - Recent
   - others
 
 page_width: 800px

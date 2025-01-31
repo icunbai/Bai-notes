@@ -13,8 +13,6 @@ layout: post
 游戏 ui 设计师，现在有自己的小团队开发独立游戏
 主要负责美术设计部分
 
----
-
 _常用工具_
 figma/blender/AI/PS/部分 ai 生成工具
 
